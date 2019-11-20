@@ -1,1 +1,3 @@
-"# tvlooper" 
+# tvlooper
+
+Loops internet content for tvs

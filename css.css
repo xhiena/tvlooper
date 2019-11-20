@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding:0;
+}
+iframe{
+    overflow:hidden;
+}
+.marquee{
+    position:absolute;background:white;bottom:30;right:0;height:100px;width:100%;border-top:10px solid red;box-shadow:0px 5px 1px red;
+}
+.marquee * {padding:0 10px 0 10px;}
+.marquee .title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.marquee .summary{
+    font-size: 20px;
+}

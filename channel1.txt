@@ -1,0 +1,3 @@
+https://google.com,60
+https://globalinter.net,60
+https://www.youtube.com/embed/qX1PvJfpbc4?autoplay=1,60
